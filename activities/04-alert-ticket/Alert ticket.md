@@ -1,8 +1,8 @@
 # 04 Alert Ticket
 
 | Ticket ID | Alert Message | Severity | Details | Ticket status |
-| --- | --- | --- | --- | Escalated |
-| A-2703 | SERVER-MAIL Phishing attempt possible download of malware | Medium | The user may have opened a malicious email and opened attachments or clicked links. |  |
+| --- | --- | --- | --- | --- |
+| A-2703 | SERVER-MAIL Phishing attempt possible download of malware | Medium | The user may have opened a malicious email and opened attachments or clicked links. | **Escalated** |
 
 | Ticket comments |
 | --- |
